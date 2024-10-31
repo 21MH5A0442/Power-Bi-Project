@@ -1,0 +1,15 @@
+To analyse Adidas sales in the U.S., several main files or datasets can be essential, including:
+
+1. Sales Transactions File: This includes records of individual sales transactions across various locations or online channels, detailing date, product ID, quantity sold, and revenue.
+
+2. Product Catalog File: A list of products, including SKU or product ID, category, subcategory, product description, price, and relevant attributes like colour and size.
+
+3. Customer Demographics File: Information about customer segments, such as age, gender, location, and possibly loyalty program membership.
+
+4. Store or Channel Data File: Details on each retail or online channel, including geographic location, channel type (e.g., retail store, online), and any special features (e.g., flagship stores, outlet stores).
+
+5. Promotions and Discounts File: A record of promotions or discounts applied to Adidas products, detailing promotion type, duration, discount rate, and target products or categories.
+
+6. Market and Competitor Data File: If available, this would contain information on market trends, competitor sales, and any external factors impacting sales, like economic conditions or seasonality.
+
+These files can then be combined and analysed to get insights into sales performance, customer behaviour, and market trends across Adidas’ U.S. market.
